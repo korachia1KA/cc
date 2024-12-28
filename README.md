@@ -54,6 +54,7 @@ MySQL stores information on devices, users, and network setups. Schema auto-gene
 ---
 
 ## Getting Started
+Here are step-by-step instructions to get your project up and running locally:
 ### Prerequisites:
 - **Git**: [Install Git](https://git-scm.com)
 - **MySQL**: Ensure MySQL is running on port 3306.
