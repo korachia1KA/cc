@@ -147,4 +147,4 @@ Validate the video at [Elsevier's Video Validator](http://elsevier-apps.sciverse
 - Mohamed Lachgar ([Researchgate](https://www.researchgate.net/profile/Mohamed-Lachgar))
 
 
-Thank you for your contributions to IoT Network Simulation Platform!
+
