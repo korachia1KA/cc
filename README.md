@@ -77,7 +77,7 @@ Here are step-by-step instructions to get your project up and running locally:
 2. Setup the Backend:
     - Navigate to the backend directory:
       ```bash
-      cd backend
+      cd backend-IotNetSim
       ```
     - Install dependencies:
       ```bash
@@ -87,12 +87,12 @@ Here are step-by-step instructions to get your project up and running locally:
       ```bash
       mvn spring-boot:run
       ```
-    - Verify the backend at [http://localhost:8000](http://localhost:8000).
+    - Verify the backend at [http://localhost:8080](http://localhost:8080).
 
 3. Setup the Frontend:
     - Navigate to the frontend directory:
       ```bash
-      cd frontend
+      cd frontend-IotNetSim
       ```
     - Install dependencies:
       ```bash
@@ -100,7 +100,7 @@ Here are step-by-step instructions to get your project up and running locally:
       ```
     - Run the frontend:
       ```bash
-      npm start
+      npm run dev
       ```
     - Access the app at [http://localhost:3000](http://localhost:3000).
 
