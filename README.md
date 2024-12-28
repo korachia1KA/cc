@@ -49,7 +49,7 @@ MySQL stores information on devices, users, and network setups. Schema auto-gene
 ### Frontend:
 - **React**
 - **HTML/CSS**
-- **JavaScript**
+- **TS**
 
 ---
 
