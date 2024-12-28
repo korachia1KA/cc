@@ -1,6 +1,6 @@
 # IoT Network Simulation Platform
 
-This platform allows users to design and simulate IoT networks, replicating features similar to tools like Cisco Packet Tracer. It includes functionalities to add and connect IoT devices, configure communication protocols, visualize real-time traffic, and analyze device communication.
+This platform enables users to design and simulate IoT networks with features similar to Cisco Packet Tracer. Users can add and connect IoT devices such as sensors and actuators, configure communication protocols like MQTT , and monitor real-time data traffic through WebSocket visualizations. The platform also supports detailed network analysis, providing tools to optimize IoT designs efficiently in a secure and interactive environment.
 
 ## Table of Contents
 - [Software Architecture](#software-architecture)
