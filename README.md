@@ -34,7 +34,7 @@ MySQL stores information on devices, users, and network setups. Schema auto-gene
 - **User Authentication**: Secure login and registration.
 - **Device Addition**: Add devices like smart lights, sensors, and routers.
 - **Network Configuration**: Set device IPs, SSIDs, and passwords.
-- **Protocol Simulation**: Supports MQTT, CoAP, and HTTP/HTTPS.
+- **Protocol Simulation**: Supports MQTT.
 - **Traffic Visualization**: Real-time data packets flow displayed via WebSocket.
 - **Start/Stop Simulation**: Buttons to control the simulation state.
 
