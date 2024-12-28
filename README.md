@@ -56,9 +56,17 @@ MySQL stores information on devices, users, and network setups. Schema auto-gene
 ## Getting Started
 Here are step-by-step instructions to get your project up and running locally:
 ### Prerequisites:
-- **Git**: [Install Git](https://git-scm.com)
-- **MySQL**: Ensure MySQL is running on port 3306.
-- **Node.js**: Install using [Node.js LTS](https://nodejs.org).
+1. *Git:*
+   - Make sure you have Git installed. If it is not installed, download and install it from [git-scm.com](https://git-scm.com/).
+
+2. *XAMPP:*
+   - Install XAMPP from [apachefriends.org](https://www.apachefriends.org/).
+   - Start the Apache and MySQL servers in XAMPP.
+   - Ensure MySQL is using port 3306.
+
+3. *Node Version Manager (NVM):*
+   - Install NVM from [github.com/nvm-sh/nvm](https://github.com/nvm-sh/nvm).
+   - Use NVM to install Node.js version 14.11.0: nvm install 14.11.0.
 
 ### Steps:
 1. Clone the repository:
